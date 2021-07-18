@@ -6,7 +6,6 @@ plugins {
 
 group = 'com.deloitteinnovation.us.hbx.threescale'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '11'
 
 repositories {
     mavenCentral()
@@ -19,8 +18,4 @@ dependencies {
     implementation 'org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:2.1.0.RELEASE'
     implementation 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'
-}
-
-test {
-    useJUnitPlatform()
 }
