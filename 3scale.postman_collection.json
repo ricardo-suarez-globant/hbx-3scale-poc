@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "d6551959-fbd7-4ef4-b81f-91a2cc9e21f5",
+		"name": "3scale",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
